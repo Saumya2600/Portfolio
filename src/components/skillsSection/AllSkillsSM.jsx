@@ -11,6 +11,20 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const skills = [
   {
+    skill: "C++",
+    icon: CgCPlusPlus,
+  },
+  {
+    skill: "Python",
+    icon: IoLogoPython,
+  },
+  
+  {
+  skill: "Java",
+  icon: FaJava,
+},
+  
+  {
     skill: "HTML",
     icon: FaHtml5,
   },
@@ -22,26 +36,24 @@ const skills = [
     skill: "JavaScript",
     icon: IoLogoJavascript,
   },
-  {
-    skill: "TypeScript",
-    icon: SiTypescript,
-  },
+ 
   {
     skill: "ReactJS",
     icon: FaReact,
   },
+ 
   {
-    skill: "Redux",
-    icon: SiRedux,
+    skill: "SQL",
+    icon: AiOutlineConsoleSql,
   },
   {
-    skill: "NextJS",
-    icon: SiNextdotjs,
+    skill: "AWS",
+    icon: FaAws,
   },
   {
-    skill: "TailwindCSS",
-    icon: RiTailwindCssFill,
-  },
+    skill: "Power Bi",
+    icon: IoLogoTableau,
+  }
 ];
 
 const AllSkillsSM = () => {
