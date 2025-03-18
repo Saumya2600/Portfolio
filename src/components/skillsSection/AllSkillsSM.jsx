@@ -1,13 +1,16 @@
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
-import { SiTypescript } from "react-icons/si";
+import { AiOutlineConsoleSql } from "react-icons/ai";
 import { FaReact } from "react-icons/fa";
-import { SiRedux } from "react-icons/si";
-import { SiNextdotjs } from "react-icons/si";
+import { FaJava } from "react-icons/fa6";
+import { FaAws } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import { IoLogoPython } from "react-icons/io";
+import { CgCPlusPlus } from "react-icons/cg";
+import { IoLogoTableau } from "react-icons/io5";
 
 const skills = [
   {
