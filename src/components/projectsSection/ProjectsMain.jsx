@@ -8,28 +8,28 @@ const projects = [
     name: "Company-Wide Dashboard",
     year: "Jan 2024",
     align: "right",
-    image: "../../public/images/website-img-1.jpg", // Default image
+    image: "/images/website-img-1.jpg", // Default image
     link: "#",
   },
   {
     name: "Mask Watch - AWS Services",
     year: "Dec 2023",
     align: "left",
-    image: "../../public/images/website-img-2.webp", // Default image
+    image: "/images/website-img-2.webp", // Default image
     link: "#",
   },
   {
     name: "PawPals - Pet Adoption Platform",
     year: "Nov 2023",
     align: "right",
-    image: "../../public/images/website-img-3.jpg", // Default image
+    image: "/images/website-img-3.jpg", // Default image
     link: "#",
   },
   {
     name: "Trivia Titans - Quiz Game",
     year: "Oct 2023",
     align: "left",
-    image: "../../public/images/website-img-4.jpg", // Default image
+    image: "/images/website-img-4.jpg", // Default image
     link: "#",
   },
 ];
